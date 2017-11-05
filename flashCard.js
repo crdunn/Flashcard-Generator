@@ -9,7 +9,7 @@ var q2 = new basic ("Who was the first person to write what we now know of as a 
 var q2c = new cloze ("in 1842, Ada Lovelace was the first person to write what we now know of as a 'computer program'","Ada Lovelace");
 
 var q3 = new basic ("This US Navy Rear Admiral is colloquially known to have coined the phrase 'debugging'","Grace Hopper");
-var q3c = new cloze ("Grace Hopper was a US Navy Rear Admiral is colloquially known to have coined the term 'debugging'", "Grace Hopper");
+var q3c = new cloze ("Grace Hopper was a US Navy Rear Admiral who is colloquially known to have coined the term 'debugging'", "Grace Hopper");
 
 var q4 = new basic ("What was the scientific research organization created the first website in 1990", "CERN");
 var q4c = new cloze ("CERN is a scientific research organization that created the first website in 1990", "CERN");
